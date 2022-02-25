@@ -1,0 +1,430 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rare and excellent receipts Experienc'd, and taught by Mrs. Mary Tillinghast. And now printed for the use of her scholars only.</title>
+            <author>Tillinghast, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62551</idno>
+            <idno type="STC">Wing T1183</idno>
+            <idno type="STC">ESTC R221736</idno>
+            <idno type="EEBO-CITATION">99833001</idno>
+            <idno type="PROQUEST">99833001</idno>
+            <idno type="VID">37476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37476)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2156:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rare and excellent receipts Experienc'd, and taught by Mrs. Mary Tillinghast. And now printed for the use of her scholars only.</title>
+                  <author>Tillinghast, Mary.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Stained, with heavy print show-through; partially illegible.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cookery --  Early works to 1800.</term>
+               <term>Canning and preserving --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37476:1"/>
+            <pb facs="tcp:37476:1"/>
+            <p>Rare and Excellent RECEIPTS. Experienc'd, and Taught By M<hi rend="sup">rs.</hi> 
+               <hi>Mary Tillinghaſt.</hi> And now Printed for the Uſe of her Scholars only.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="recipes">
+            <div n="1" type="recipe">
+               <pb facs="tcp:37476:2"/>
+               <pb n="1" facs="tcp:37476:2"/>
+               <head>I. <hi>How to make Paſte for all Pies to Riſe.</hi>
+               </head>
+               <p>TO every Peck of Flouer, take two Pound of Butter; the Liquor muſt boyl, then put in your Butter; and when it is all melted, wet your Paſte, but not too ſtiff.</p>
+            </div>
+            <div n="2" type="recipe">
+               <head>II. <hi>How to make cold Paſte.</hi>
+               </head>
+               <p>To every Peck of Flouer, take ſix Pound of Butter, brake your Butter in ſmall bits; and put it into your Flouer; then wet it with cold Water, but not too ſtiff.</p>
+               <p>
+                  <hi>This Paſte is good for all Paſties, or made Diſhes, or Florendines.</hi>
+               </p>
+            </div>
+            <div n="3" type="recipe">
+               <head>III. <hi>How to make Paſte for Cuſtards.</hi>
+               </head>
+               <p>You muſt boyl your Liquor, then wet your Paſte, not lithe but ſtiff;
+<pb n="2" facs="tcp:37476:3"/>there muſt be no Butter in it. <hi>This Paſte is good for Cuſtards, and all Cotes, Feathers, &amp; Eſſes.</hi>
+               </p>
+            </div>
+            <div n="4" type="recipe">
+               <head>IV. <hi>How to make Puff-Paſte.</hi>
+               </head>
+               <p>To every peck of Flouer, take Eight pound of good ſweet Butter, Sitteen Eggs, take away half the Yelks; firſt break into your Flouer, one quarter of your Butter into ſmall pieces, as you do for the cold Paſte, then break in ſo many Eggs as the quantity of Flouer, which you wet, will require; break them into a Porringer, and beat them a lit<g ref="char:EOLhyphen"/>tle; then put ſome Water to them, and put it into the Flouer, and wet it into a pretty ſtiff Paſte; then rowl it into a leaf of Paſte about a quarter of an Inch thick; then ſtick it all over with bits of But<g ref="char:EOLhyphen"/>ter, and double it up in five or ſix Leaves; then rowl it out again about half an Inch thick; then double it up again, laying Butter all over it as at firſt; and ſo do till all your
+<pb n="3" facs="tcp:37476:3"/>Butter be laid on the Paſte; it muſt never be moulded nor kneaded; every time you rowl it out, and lay the Butter on, you muſt ſtrew Flouer lightly on the Butter, be<g ref="char:EOLhyphen"/>fore you double it up, and upon the board, and over the top; for it muſt neither ſtick to the board, nor Rowling-pin.</p>
+               <p>
+                  <hi>This Paſte is good for all Floren<g ref="char:EOLhyphen"/>dines, Cheeſe-cakes, made Diſhes, or for Sweet-meat-Tarts.</hi>
+               </p>
+            </div>
+            <div n="5" type="recipe">
+               <head>V. <hi>How to make Sugar-aſſe</hi>
+               </head>
+               <p>To every peck of Flouer, you muſt take four pound of Butter, two pound of Sugar; the Butter muſt be rubb'd into the flower, ſo fine till it ſeems like grated Bread; then you muſt beat your Sugar, and ſift it through a fine Sieve; then rub it into the Flouer very well, and make it up into a ſtiff Paſte with boyled Liquor.</p>
+               <p>
+                  <hi>This Paſte is good for all ſorts
+<pb n="4" facs="tcp:37476:4"/>of Cheeſe-cakes or Tarts, which are made of Sweet-meats, Rasberies, Cur<g ref="char:EOLhyphen"/>rants, or Apricocks.</hi>
+               </p>
+            </div>
+            <div n="6" type="recipe">
+               <head>VI. <hi>How to make Paſte-Royal.</hi>
+               </head>
+               <p>To every peck of Flouer you muſt have ſix pound of Butter, broke in ſmall bits into the Flouer, and ſixteen Eggs, taking away half the whites; then take one pound of Sugar ſinely beaten and ſifted, and mix it with the Flouer and But<g ref="char:EOLhyphen"/>ter, and make a hole in the middle of the Flower; then brake in the Eggs, wet the Paſte with cold Cream, a little Sack, and a little Roſe-water.</p>
+               <p>
+                  <hi>This Paſte is good for all Floren<g ref="char:EOLhyphen"/>dines, or made Diſhes, which are ſweet.</hi>
+               </p>
+            </div>
+            <div n="7" type="recipe">
+               <head>VII. <hi>How to make Veniſon, Beef, or Mutton Paſty.</hi>
+               </head>
+               <p>Take a hanch or ſide of Veniſon and bone it, then take off the out<g ref="char:EOLhyphen"/>termoſt tuff Skin; then take it, and lay it in form for a Paſty; then lay
+<pb n="5" facs="tcp:37476:4"/>the ſide that you took the skin from, downwards to the board; then ſlaſh it croſs and croſs with your Knife, then ſeaſon it with two Ounces of Pepper, and a quarter of a Pound of Salt, and two Nutmegs grated; then you muſt have four Pound of Beef Suet ſhred fine, and take one half of it, ſeaſon it lightly with the ſeaſoning, and ſprinkle a little water on it; then beat it with the Rowling-pin till it be all in a broad thin Cake; then lay the Suet which you have beat, on the Paſte; then then lay on the Veniſon with that ſide downwards which is ſeaſoned, then ſeaſon the top of your Veni<g ref="char:EOLhyphen"/>ſon lightly: then order the other part of the Suet as you did the former, and lay it upon the top of the meat and cloſe the Paſty.</p>
+            </div>
+            <div n="8" type="recipe">
+               <head>VIII. <hi>How to order the Bones.</hi>
+               </head>
+               <p>Then take the Bones, and brake them very well, ſeaſon them high, and put them in a Pan,
+<pb n="6" facs="tcp:37476:5"/>with a pint of fair Water, and a pound of Snet ſhred fine; if the Paſty be ſmall, half a pint of Wa<g ref="char:EOLhyphen"/>ter is enough, and half a pound of Butter.</p>
+               <p>
+                  <hi>If you make your Paſty of Beef, a Surline is the beſt; if of Mutton, then a Shoulder or two Breaſts is the beſt. A Veniſon, or a Beef Paſty, will take ſix hours baking.</hi>
+               </p>
+            </div>
+            <div n="9" type="recipe">
+               <head>IX. <hi>How to make a Lamb, Mut<g ref="char:EOLhyphen"/>ton or Veal Paſty.</hi>
+               </head>
+               <p>Take a hind-quarter of Lamb, and bone it; then lay it in form for your Paſty all of an evenneſs; then take an Ounce of Pepper, one Nutmeg grated, and as much Salt as two Ounces. If your Lamb be ſmall, you muſt take ſo much the leſs ſeaſoning. For a Veal-Paſty, a Breaſt is the beſt Joynt, and the ſame Seaſoning as for the Lamb; only before you lay on the Butter, lay three or four blades of large Mace; your Veal muſt be bon'd, as well as your Lamb; for each of
+<pb n="7" facs="tcp:37476:5"/>theſe Paſtes, you muſt have two pound of Butter. If it be Mutton, then you muſt have three pound of Butter, or three pound of Beef-ſuet, ſhred ſmall, and beat with a little Water with a Rowling-pin; Four hours is enough to ſoak any of theſe Paſties.</p>
+            </div>
+            <div n="10" type="recipe">
+               <head>X. <hi>How to bake the Bones.</hi>
+               </head>
+               <p>Break the Bones of your Meat; ſeaſon them well; put to them half a pint of Water, and half a pound of Butter; put them in a Pan, and cover them cloſe with a Paper, or a piece of courſe Paſte, and ſet them in with the Paſty; and when the Paſty comes out of the Oven, pour in the Liquor which comes from the Bones.</p>
+            </div>
+            <div n="11" type="recipe">
+               <head>XI. <hi>How to make a Lamb-Pye.</hi>
+               </head>
+               <p>Take a quarter of Lamb, either fore or hind-quarter, it mattereth not which; cut it into ſmall pieces, then feaſon it with Pepper, Salt,
+<pb n="8" facs="tcp:37476:6"/>and Nutmegs, according to your Pallet; and lay on the Meat a blade or two of large Mace; then lay on ſome ſcalded cloſe Lettice, or ſcalded Spinnage in lumps; then put in ſome ſcalded Goosberries, or raw Barberries on the top of all; then lay a pound and half of Butter, and cloſe the Pie. Three hours will bake it,</p>
+            </div>
+            <div n="12" type="recipe">
+               <head>XII. <hi>How to make a Lere for this Pye.</hi>
+               </head>
+               <p>Take half a pint of Vergiſe, and a quarter of a pound of Butter, make the Vergiſe boyl, then ſtir in the Butter, then take the Yelks of two Eggs, and put it into the Pie, when it comes out of the O<g ref="char:EOLhyphen"/>ven, before it goes to Table. If it be to eat cold, then put in no Lere.</p>
+            </div>
+            <div n="13" type="recipe">
+               <head>XIII. <hi>How to make a Lamb Pye ſweet.</hi>
+               </head>
+               <p>Take a Fore-quarter of Lamb and cut it into ſmall pieces; ſea<g ref="char:EOLhyphen"/>ſon it with Nutmegs, Cinnamon,
+<pb n="9" facs="tcp:37476:6"/>Sugar, and a litle Salt; then lay a lair of Butter at the bottom, and lay on the Meat; then <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on ſome Suckets of Lettice, and <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>kets of Lemon, ſome preſerv<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Grapes and Barberies, ſome Cheſnuts ſcalded, and ſome Yelks of hard Eggs; lay on one pound of Butter, then cloſe the Pie. Two hours wil bake it. If it be a Veal-Pie, inſtead of the Sweet-meats, put in Currants.</p>
+            </div>
+            <div n="14" type="recipe">
+               <head>XIV. <hi>How to make a Caudle for this Pye.</hi>
+               </head>
+               <p>Take a pint of White-wine and make it boyl; then brew in half a pound of Butter, the Yelks of three Eggs, and as much Sugar as will make it pleaſant to your taſte, not too ſweet. Thus you may ſeaſon a Veal Pie, if you pleaſe; only into the Caudle ſqueeze the Juice of two Oranges.</p>
+            </div>
+            <div n="15" type="recipe">
+               <head>XV. <hi>How to make Mince Pyes.</hi>
+               </head>
+               <p>To every pound of Meat, take two pound of Beef ſuet, Two
+<pb n="10" facs="tcp:37476:7"/>pound of Currants, and a quarter of an ounce of Cinnamon, one Nut<g ref="char:EOLhyphen"/>meg, a litle beaten Mace, ſome bea<g ref="char:EOLhyphen"/>ten Cloves, a little Sack &amp; Roſe-wa<g ref="char:EOLhyphen"/>ter, two large Pippins, ſome Orange and Lemon-peel cut very thin, and ſhred very ſmall, a few beaten Carraway-ſeeds, if you love them, the Juyce of half a Lemon ſqueez'd into this quantity of meat; for Sugar, ſweeten it to your reliſh; then mix all theſe together, and fill your Pie. The beſt meat for Pies, is Neats-Tongues, or a Leg of Veal; you may make them of a Leg of Mutton, if you pleaſe; the meat muſt be parboyl'd, if you do not ſpend it preſently; but if it be for preſent uſe, you may do it raw, and the Pies will be the better.</p>
+            </div>
+            <div n="16" type="recipe">
+               <head>XVI. <hi>How to make a Pigeon-Pye</hi>
+               </head>
+               <p>Take a dozen of Pidgeons, and break all their Bones with a Row<g ref="char:EOLhyphen"/>ling-pin, then truſs them; as for ſeaſoning, take an Ounce of
+<pb n="11" facs="tcp:37476:7"/>Pepper, and one latge Nutmeg grated, and two ounces of Salt, if you love it high ſeaſon'd, or elſe not ſo much; mix the ſeaſoning together, then take for every Pid<g ref="char:EOLhyphen"/>geon a piece of Butter as big as a Wall-nut, and dip in the Seaſoning, and put it in the Pidgeons Belly; then take the reſt of the Seaſoning, and ſeaſon the Pidgeons with it; then lay a thin laying of Butter at the bottom of the Pie, and lay in the Pidgeons with their Breaſts down<g ref="char:EOLhyphen"/>wards; then lay on ſome large Mace, and ſome ſlices of Bacon, if you love it; but if the Pie be to be eat cold, there muſt be no Bacon: Then lay Butter all over the Pid<g ref="char:EOLhyphen"/>geons pretty thick; two pound of Butter is enough for this Pye.</p>
+            </div>
+            <div n="17" type="recipe">
+               <head>XVII. <hi>How to make a Chicken-Pye ſweet.</hi>
+               </head>
+               <p>Take half a dozen of Chickens, and break all their Bones with a Rowling-pin, then truſs them; or elſe you may cut the Chickens into quarters, which is moſt proper
+<pb n="12" facs="tcp:37476:8"/>for a ſweet Pie; then for the Sea<g ref="char:EOLhyphen"/>ſoning, take half an Ounce of bea<g ref="char:EOLhyphen"/>ten Cinnamon, one large Nutmeg grated, half a Pound of Sugar, and a little Salt; then ſeaſon your Chickens with it, and put them in<g ref="char:EOLhyphen"/>to the Pie; then lay on ſome Suckets of Lettice, and ſome Suck<g ref="char:EOLhyphen"/>ets of Lemons, ſome ſlices of raw Lemons, and ſome preſerv'd Barbre<g ref="char:EOLhyphen"/>ries, a Pound of Butter, the Mar<g ref="char:EOLhyphen"/>row of two Bones; then cloſe the Pie: Two hours baking is enough for this Pie.</p>
+            </div>
+            <div n="18" type="recipe">
+               <head>XVIII. <hi>How to make a Caudle for this Pie.</hi>
+               </head>
+               <p>Take a Pint of White-Wine, and a little Vergiſe, and make it boyl; then brew it with a good piece of Butter, and the Yelks of four Eggs; ſweeten it with Sugar to your taſt, but not too ſweet; when the Pie is bak'd, put it into the Pie before it goes to the Table; and ſhake it, when it is in the Pie.</p>
+            </div>
+            <div n="19" type="recipe">
+               <pb n="13" facs="tcp:37476:8"/>
+               <head>XIX. <hi>How to make an Ar<g ref="char:EOLhyphen"/>tichoak-Pie.</hi>
+               </head>
+               <p>Take your Artichoaks, and boyl them as you doe for to eat, pull off the leaves from the bot<g ref="char:EOLhyphen"/>tom; then take the Leaves, and with a Knife take the Meat from the Leaves, and lay it in the form of a bottom; then ſeaſon the bottoms, and what you took from the Leaves, with Cinnamon, Nutmegs, a little beaten Ginger, a lit<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Salt and Su<g ref="char:EOLhyphen"/>gar; then butter the bottom of your Pie, then lay on the Artichoaks, and on them ſome preſerv'd Barberries, preſerv'd Goosberies, and preſerv'd Cherries; ſome candid Lemon, and Orange-peel cut in thin ſlices, and ſome Marrow. To ſix Artichoaks, you muſt have the Marrow of two large Bones, a lair of Butter all over the Pie; a Pound of Butter is e<g ref="char:EOLhyphen"/>nough, beſides the Marrow for this Pie. Cloſe it, and put it into the Oven; an hour and an half will be enough to bake it.</p>
+            </div>
+            <div n="20" type="recipe">
+               <pb n="14" facs="tcp:37476:9"/>
+               <head>XX. <hi>How to make a Caudle for it.</hi>
+               </head>
+               <p>Take half a pint of white Wine, half a pint of Sack, make it boyl; then brew in a good peice of But<g ref="char:EOLhyphen"/>ter, the Yelks of three Eggs; and when the Pie is bak'd, put in the Caudle, and ſhake it well in the Pie, then ſend it to the Table.</p>
+            </div>
+            <div n="21" type="recipe">
+               <head>XXI. <hi>How to make a Potato or Secret-Pye.</hi>
+               </head>
+               <p>Firſt boyl your Roots, and take the skin from them; then ſeaſon them with Cinnamon, Nutmegs, Sugar, and a litle Salt, not two ſweet, becauſe the Roots are ſweet, then butter the bottom of your Pie; then lay on the Potato's or Secrets; then lay on ſome Preſerves of Cherries, Goosberries, Grapes, Barberies, White Bullice, Corrants; all theſe muſt be preſerv'd; ſome candid Citron cut in thin ſlices, and lay all over the other Preſerves; the Marrow of 2 large Bones, is enough for three pound of any of theſe
+<pb n="15" facs="tcp:37476:9"/>Roots, then lay a pound of good ſweet Butter over all, and cloſe the Pie: an hour and a half will bake it.</p>
+               <p>
+                  <hi>You muſt make the ſame Caudle for this Pie, as you did for the Artichoak-Pie, only ſqueeze in the juice of a good large Lemon in the Caudle: before you put it into the Pie,</hi>
+               </p>
+            </div>
+            <div n="22" type="recipe">
+               <head>XXII. <hi>How to make a Lombard-Pie.</hi>
+               </head>
+               <p>Take Lamb or Veal, and ſhred it very ſmall, to every pound of meat, a pound of Beef-ſuet ſhred ſmall, a little ſweet Marjoram, Thyme, and Winter-Savory ſlipt and ſhred very ſmall, a little Lemon peel ſhred fine, To the quantity of four pound of the meat, you muſt put the Crum of a penny Loaf gra<g ref="char:EOLhyphen"/>ted, a Pound and a half of Currants, half a Pound of Sugar. To ſeaſon it, you muſt have two Nutmegs, a lit<g ref="char:EOLhyphen"/>tle beaten Cloves and Mace, a little Cinamon, and a little Salt, no more Salt then will take away the flaſhi<g ref="char:EOLhyphen"/>neſs, and make it reliſhable; then mix them well together, then have ſome juice of Spinnage and
+<pb n="16" facs="tcp:37476:10"/>colour it green; then make it up into Balls as big as an Egg, and fill the Pie with one lair of the Balls; then you muſt put in ſome pre<g ref="char:EOLhyphen"/>ſervs, as Cherries, Barberies, Grapes, Suckets of Lettice. Suckets of Le<g ref="char:EOLhyphen"/>mon, Candied Orange and Cittron Peal, Ringua Roots; then lay a lair of Marrow all over the Pie with ſome-bits of Butter; Cloſe the Pie, and bake it. An hour and an half will bake it. Before you cloſe it, and before the marrow be laid, lay on ſome ſlices of Lemon.</p>
+            </div>
+            <div n="23" type="recipe">
+               <head>XXIII. <hi>How to make a Caudle for a Lombard Pie.</hi>
+               </head>
+               <p>Take half a pint of Sack; and as much White-Wine, and a quarter of a Pint of Verjuice; ſet them on the Fire and let them boyl; then brew them with a quarter of a pound of ſweet Butter, the Yelks of three Eggs; and put theſe in the Pie when it comes out of the Oven; and ſhake it into the Pie, before you ſend it to the Table.</p>
+            </div>
+            <div n="24" type="recipe">
+               <pb n="17" facs="tcp:37476:10"/>
+               <head>XXIV. <hi>How to make Cheeſe-Cakes</hi>
+               </head>
+               <p>Take a quart of the Curd of new Milk, when the Whey is draind well from it, and beat it well in a Stone or Wooden Mortar, with half a pound of good ſweet Butter; then you muſt have for the Seaſo<g ref="char:EOLhyphen"/>ning, a large Nutmeg grated, and beaten Cinamon; as much as the quantity of the Nutmegs; half a pint of good thick Cream, eight Eggs, take a way half the whites, a little Sack, and a litle Roſe-wa<g ref="char:EOLhyphen"/>ter, or Orange-flower-Water, a little Amber-Greece diſſolv'd in a little Sack; then take half a pound of fine Sugar beaten very fine, and ſcerſt; half a pound of Corrants is e<g ref="char:EOLhyphen"/>nough for this quantity, mix all theſe very well together, and fill your Cheeſe-cakes: half an hour will bake them; the Oven muſt be no hot<g ref="char:EOLhyphen"/>ter than for White Bread.</p>
+               <p>
+                  <hi>Puff-Paſte is beſt for the Cheeſe-Cakes; but if you raiſe them, then it muſt be Sugar-Paſte.</hi>
+               </p>
+            </div>
+            <div n="25" type="recipe">
+               <pb n="18" facs="tcp:37476:11"/>
+               <head>XXV. <hi>How to make an Eele-Pie.</hi>
+               </head>
+               <p>Take the Eeles (being flaid) and cut them in pieces, about four inches long; then ſeaſon them with Pepper and Salt, and a little grated Nutmeg; ſeaſon them not too high: Half an Ounce of Pepper is enough for ſix Eeles (if they be not very large) and half a good Nut<g ref="char:EOLhyphen"/>meg; but if they be large, then this Seaſoning is but for four: lay ſome Butter at the bottom of your Pie, then lay in the Eeles; and up<g ref="char:EOLhyphen"/>on the Eeles lay on three or four blades of large Mace, then lay But<g ref="char:EOLhyphen"/>ter all over your Pie, a pound and half is enough for this Pie.</p>
+               <p>
+                  <hi>Sometime for change, ſeaſon them not ſo high, then put in half a pound of Cor<g ref="char:EOLhyphen"/>rants: if you pleaſe, you may put in as many Raiſins of the Sun. This Pie will ask two hours baking.</hi>
+               </p>
+            </div>
+            <div n="26" type="recipe">
+               <head>XXVI. <hi>How to make a Goſe-Gib let Pie.</hi>
+               </head>
+               <p>Take four pair of Giblets, and break all the Bones with a Row<g ref="char:EOLhyphen"/>ling-pin:
+<pb n="19" facs="tcp:37476:11"/>Then for the ſeaſoning, you muſt have an ounce of Pepper, a Nutmeg grated, or cut ſmall; two ounces of Salt, two pound of But<g ref="char:EOLhyphen"/>ter in the Pie. This ſeaſoning will ſerve a Mutton or Veal-Pie; only in the Mutton, you need not put but one pound of But<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div n="27" type="recipe">
+               <head>XXVII. <hi>How to make a Chicken Pie</hi>
+               </head>
+               <p>Take your Chickens, and break all the Bones with the Rowling-pin; then ſeaſon them with Pep<g ref="char:EOLhyphen"/>per, Salt, and Nutmeg grated, that is, to ſix Chickens, an ounce of Pepper, one large Nutmeg, half a dozen blades of large Mace, two pound of Butter. Lay in your Meat; and upon the Chicken lay Meat. and upon the Chicken lay the Mace, then lay the Butter all over it and cloſe it, This Pie will ask two hours baking.</p>
+               <p>
+                  <hi>After this manner you may ſeaſon a Pidgeon Pie. This ſeaſoning is enough for a dozen of Pidgeons.</hi>
+               </p>
+            </div>
+            <div n="28" type="recipe">
+               <pb n="20" facs="tcp:37476:12"/>
+               <head>XXVIII. <hi>How to Seaſon a Gooſe or Turkey Pie.</hi>
+               </head>
+               <p>Take two Ounces of Pepper half an Ounce of Nutmegs, a little beaten Cloves and Mace, four Oun<g ref="char:EOLhyphen"/>ces of Salt. Bone your Turkey; then Seaſon it within and without with the Seaſoning: Then have a piece of fat freſh Pork, and Sea<g ref="char:EOLhyphen"/>ſon as the Turkey; and put it in the Belly of the Turkey; or you may bake it without, if you pleaſe. If you put Pork in it, then three pound of Butter is enough for it; but if not, then you muſt put in four pound.</p>
+               <p>If you do not Bone your Gooſe, then you muſt brake all the Bones of it: Then Seaſon it, as you do the Turkey. This Seaſoning is e<g ref="char:EOLhyphen"/>nough, if you put in a couple of Rabbets with your Gooſe, and three pound of Butter. When either of theſe Pies be bak't, when they have been out of the Oven a little while, then you muſt put in two pound of Clarefy'd Butter.</p>
+            </div>
+            <div n="29" type="recipe">
+               <pb n="21" facs="tcp:37476:12"/>
+               <head>XXIX. <hi>How to Clarefy Butter.</hi>
+               </head>
+               <p>Take your Butter and ſet it on a gentle Fire, and let it melt by degrees, without ſtirring it; when it is all melted, and ready to boil, then take it off from the Fire, and let it ſtand a while to ſettle; then skim off the top, and pour it into the Pye.</p>
+               <p>
+                  <hi>So you muſt Clarifie your Butter to fill up all ſorts of Pies that you keep Cold.</hi>
+               </p>
+            </div>
+            <div n="30" type="recipe">
+               <head>XXX. <hi>How to make a Batalia Pie.</hi>
+               </head>
+               <p>Take Chickens that be very young, or elſe young Pidgeons; ſeaſon them with Pepper, Salt, and Nutmeg, ſeaſon them pretty high; then lay in your Pidgeons or Chick<g ref="char:EOLhyphen"/>ens cut in quarters, with their Bones broke: Then lay in ſome whole Larks, ſome Saſſages, ſome blades of large Mace, ſome Balls of Forc'd Meat, coloured green with Juice of Spinnage, ſome pickled Oyſters, or Stew'd, which you
+<pb n="22" facs="tcp:37476:13"/>pleaſe; ſome picked Barberies, ſome ſlices of Lemon: Then lay pieces of Marrow all up and down the Pie; then lay on a pound of Butter all over the Pie; then cloſe it, and bake it: It will ask two hours baking.</p>
+            </div>
+            <div n="31" type="recipe">
+               <head>XXXI. <hi>How to make Chewits to ſet all round it.</hi>
+               </head>
+               <p>Make them of Lombard-Meat, put Marrow a top of it: when they be bak'd, liquor them with the ſame Candle, as you make for a Lombard-Pie, but put no ſweet Meats in your Chewits, only ſea<g ref="char:EOLhyphen"/>ſon your Marrow with Cinamon, Nutmeg, and Sugar.</p>
+            </div>
+            <div n="32" type="recipe">
+               <head>XXXII. <hi>How to make a Leer for the Batalia-Pie.</hi>
+               </head>
+               <p>Take half a pint of Mutton-gra<g ref="char:EOLhyphen"/>vy, two ſpoonfuls of Oyſter-liquor, half a pint of white-Wine: then ſet it on the fire, and make it boil, then put to it the Juice of two Oranges, and a good piece of But<g ref="char:EOLhyphen"/>ter,
+<pb n="23" facs="tcp:37476:13"/>the yelks of two Eggs, being well beat, put in the Pie, when it comes out of the Oven.</p>
+            </div>
+            <div n="33" type="recipe">
+               <head>XXXIII. <hi>How to make a Chadron Pie.</hi>
+               </head>
+               <p>Take a Calves-Chadron, and parboile it; then when it is cold, ſhred it very ſmall; then ſhred a pound of Suet very fine; then ſea<g ref="char:EOLhyphen"/>ſon it with half an ounce of Cina<g ref="char:EOLhyphen"/>mon, and two Nutmegs, and a little beaten Cloves and Mace, a little ſhred Lemon and Orange-peel, four good Pippins ſhred ſmall, a little Roſe water, and half a pint of Sack, if it be a large Cha<g ref="char:EOLhyphen"/>dron; if not a quarter of a pint will be enough; and a pound and a half of Currants: mix all theſe together, with a quarter of a pound of Sugar, and a little Salt; then fill your Pies or Florendine with this Meat.</p>
+               <p>
+                  <hi>This Florendine muſt be bak'd in Puff-paſte or cold Paſte.</hi>
+               </p>
+            </div>
+            <div n="34" type="recipe">
+               <pb n="24" facs="tcp:37476:14"/>
+               <head>XXXIV. <hi>How to make Cuſtards.</hi>
+               </head>
+               <p>Take two quarts of Cream or Milk, and twelve Eggs, take away half the Whites, put half a pound of Sugar; beat your Eggs very well, then mix it well together; then ſtrain it, and fill your Cu<g ref="char:EOLhyphen"/>ſtards: the Cream or the Milk you muſt boil with a Blade or two of Cinamon and large Mace; and to two quarts of Cream, put four<g ref="char:EOLhyphen"/>teen Eggs: Then fill your Coffins with it, they being firſt dry'd in the Oven.</p>
+            </div>
+            <div n="35" type="recipe">
+               <head>XXXV. <hi>How to make a Mutton Pie after the French Faſhon.</hi>
+               </head>
+               <p>Take ſome of a Leg of Mutton, mince it ſmall; to every pound of Meat, half a pound of Bief-ſuet mine'd ſmall, two good Nutmegs, a little Pepper, and a little beaten Cloves and Mace, a pound of Cur<g ref="char:EOLhyphen"/>rants; to every pound of Meat, a
+<pb n="25" facs="tcp:37476:14"/>few ſweet Herbs ſhred ſmall, as ſweet Marjoram, and Thyme, and Winter Savory; the yelks of ſix Eggs; mix all theſe well toge<g ref="char:EOLhyphen"/>ther, with as much Salt as will make it ſavory; when it is well mixt, make it up in Balls, as big as a Turkey-Egg, then put ſome Butter on the bottom of your Pie, then lay on the Balls; then lay on ſome blades of large Mace on the Balls; then lay on ſome more But<g ref="char:EOLhyphen"/>ter, cloſe it, and bake it.</p>
+            </div>
+            <div n="36" type="recipe">
+               <head>XXXVI. <hi>How to make a Lere for it.</hi>
+               </head>
+               <p>Take half a pint of white Wine, with one Lemon ſqueez'd in it, and the yelks of three Eggs, and brew it well together; then put it in the Pie, when it is bak'd.</p>
+            </div>
+            <div n="37" type="recipe">
+               <head>XXXVII. <hi>How to make a Her<g ref="char:EOLhyphen"/>ring Pie.</hi>
+               </head>
+               <p>Take your Herrings, and cut off
+<pb n="26" facs="tcp:37476:15"/>their Heads and Tails; then cut them three times on every ſide; then ſeaſon them with Pepper and Salt: put in good ſtore of Butter, that is, to eight or ten Herrings a pound of Butter, then cloſe it, and bake it.</p>
+            </div>
+            <div n="38" type="recipe">
+               <head>XXXVIII. <hi>Another way to make a Herring Pie.</hi>
+               </head>
+               <p>Take the Herrings, and ſeaſon them as the other; then have ſome old Onions, and cut them in ſlices, and lay them all over the Herrings, lay the Butter over the Onions, then cloſe it, and bake it.</p>
+            </div>
+            <div n="39" type="recipe">
+               <head>XXXIX. <hi>Or this way.</hi>
+               </head>
+               <p>Do not ſeaſon them ſo high as the other, but cut them after the ſame manner, and put a litle grated Nutmeg in it: then lay all over the Herrings ſome Raiſins and Cur<g ref="char:EOLhyphen"/>rants, then lay a Laying of Butter.</p>
+            </div>
+            <div n="40" type="recipe">
+               <pb n="27" facs="tcp:37476:15"/>
+               <head>XL. <hi>How to make a Carp or Tench Pie.</hi>
+               </head>
+               <p>Take either of theſe Fiſh, and ſcrape off all the Scales, then cut them acroſs on the ſide, then ſeaſon them with Pepper and Salt, and a little beaten Cloves and Mace, then lay in ſome Butter in the bottom of the Pie, then lay in the Fiſh, then lay on ſome pickled Barberies, ſome flices of Le<g ref="char:EOLhyphen"/>mon, a ſlice or two of an Onion, then lay ſome blades of large Mace, then lay on a Laying of Butter: If this Pie be large, you muſt put two pound of Butter, then cloſe it, and bake it, two hours is enough to bake it</p>
+            </div>
+            <div n="41" type="recipe">
+               <head>XLI. <hi>How to make a Hare Pie.</hi>
+               </head>
+               <p>Take the Hare, and cut it to pieces, then ſeaſon it with an ounce of Pepper, and two Oun<g ref="char:EOLhyphen"/>ces
+<pb n="28" facs="tcp:37476:16"/>of Salt, one large Nutmeg, a little beaten Cloves and Mace; brake all the Bones very well with a Rowling pin; then lay the Hare in the Pie; lay ſome ſlices of fat Bacon on the Hare, if you love it, elſe none: You muſt put two pound of Butter in this Pie. This Pie will ask four hours baking.</p>
+            </div>
+            <div type="recipe">
+               <head>Or this.</head>
+               <p>Bone the Hare, and beat the Fleſh very well in a Mortar with ſome fat Bacon, or Beef ſuet; then ſeaſon it as you do the other, work the Seaſoning very well in<g ref="char:EOLhyphen"/>to it with your hand: you muſt beat it till it is in a perfect Paſte: then ſill your Pie, and lay on two pound of Butter: This will ask as much baking as the former.</p>
+            </div>
+            <div n="43" type="recipe">
+               <pb n="29" facs="tcp:37476:16"/>
+               <head>XLIII. <hi>How to make a Rabbet-Pie.</hi>
+               </head>
+               <p>Take a couple of Rabbets, and break all the Bones; then ſeaſon them with Pepper and Salt, and Nutmeg 3 then take a pound of Butter, and lay on the Rabbets, then cloſe your Pie: This Pie will ask two hours baking.</p>
+            </div>
+            <div n="44" type="recipe">
+               <head>XLIV: <hi>Or thus.</hi>
+               </head>
+               <p>Take your Rabbets, and break the Bones, and ſeaſon them with Pepper and Salt, but no Nutmeg: lay on the Rabbets a good deal of pict'd Parſley; then lay on a good quantity of Butter, and cloſe it.</p>
+            </div>
+            <div n="45" type="recipe">
+               <pb n="30" facs="tcp:37476:17"/>
+               <head>XLV. <hi>Or this way.</hi>
+               </head>
+               <p>Seaſon the Rabbets, as befor, and lay good ſtore of ſlie'd Onions, and a good quantity of Butter.</p>
+            </div>
+            <div n="46" type="recipe">
+               <head>XLVI. <hi>How to make Patte Pann paſſe for Carts.</hi>
+               </head>
+               <p>Take half a quarter of a Peck of fine Flouer, three quarters of a Pound of Butter, and rub it into your Flouer; put in a quarter of a pound of Sugar; then beat Two Eggs, with a little water, and wet your Paſte with it, but take Care you wet it not too much.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
